@@ -1,0 +1,40 @@
+# Unity generated #
+Temp/
+Library/
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/EditorSettings.asset
+ProjectSettings/GraphicsSettings.asset
+ProjectSettings/AudioManager.asset
+ProjectSettings/InputManager.asset
+ProjectSettings/Physics2DSettings.asset
+ProjectSettings/PhysicsManager.asset
+ProjectSettings/QualitySettings.asset
+ProjectSettings/TagManager.asset
+ProjectSettings/TimeManager.asset
+ProjectSettings/NetworkManager.asset
+ProjectSettings/UnityConnectSettings.asset
+
+# VS/VSCode generated #
+.vs/
+.vscode/
+
+# Miscellaneous #
+Build/
+obj/
+*.userprefs
+*.csproj
+*.sln
+*.pidb
+*.suo
+*.user
+*.unityproj
+*.apk
+*.unitypackage
+*.DS_Store
+*.meta
+*.apk
+*.log
+
+
+
+logs/*
